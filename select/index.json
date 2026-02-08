@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Passenger",
+  "base_artist": "Iggy Pop",
+  "createdAt": "2026-02-08T10:23:35.565018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Great Days For The Passenger Element",
+      "artist": "Autolux",
+      "has_synced": true,
+      "path": "select/01_Great_Days_For_The_Passenger_Element_Autolux.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Art Brut",
+      "has_synced": true,
+      "path": "select/02_The_Passenger_Art_Brut.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/03_The_Passenger_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/04_The_Passenger_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/05_The_Passenger_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/06_The_Passenger_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Kid Loco",
+      "has_synced": false,
+      "path": "select/07_The_Passenger_Kid_Loco.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Iggy Pop",
+      "has_synced": false,
+      "path": "select/08_The_Passenger_Iggy_Pop.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/09_The_Passenger_Stars.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/10_The_Passenger_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Passenger (Live)",
+      "artist": "Lunachicks",
+      "has_synced": false,
+      "path": "select/11_The_Passenger_(Live)_Lunachicks.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/12_The_Passenger_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Passenger (Live On BBC's \"Later\" With Jools Holland, London, UK / 10/27/1998)",
+      "artist": "R.E.M.",
+      "has_synced": false,
+      "path": "select/13_The_Passenger_(Live_On_BBC's__Later__With_Jools_Holland,_London,_UK___10_27_1998_R.E.M..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Wall of Voodoo",
+      "has_synced": true,
+      "path": "select/14_The_Passenger_Wall_of_Voodoo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Passenger (Live)",
+      "artist": "Wall of Voodoo",
+      "has_synced": false,
+      "path": "select/15_The_Passenger_(Live)_Wall_of_Voodoo.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Passenger",
+      "artist": "Michael Hutchence",
+      "has_synced": true,
+      "path": "select/16_The_Passenger_Michael_Hutchence.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Passenger",
+      "artist": "Iggy Pop",
+      "has_synced": false,
+      "path": "select/pl_01_The_Passenger_Iggy_Pop.txt"
+    }
+  ]
+}
